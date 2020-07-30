@@ -1,21 +1,30 @@
 # Desafio-inmetrics-mobile-java
-Projeto de automação de teste desenvolvido por Cláudio da Luz Andrade Júnior, utilizando Java, cucumber e appium.
-Contato: Junior.andrade.360@hotmail.com - (61) 98636-4434
+Projeto de automação de teste mobile, utilizando Java como linguagem principal com as ferramentas cucumber e appium.
 
-# NFORMAÇÕES PARA EXECUTAR O REPORT DO ALLURE:
+## Autor: 
+|Nome|email|Telefone|
+| -------- | -------- | -------- |
+|Claudio da L. Andrade Júnior|junior.andrade.360@hotmail.com|(61)98636-4434|
 
-Pré-requisitos: 1- Nodejs, 2- Java 8 ou superior
+### INFORMAÇÕES PARA EXECUTAR O REPORT DO ALLURE:
 
-Caso não tenha o allure instalado, executar o seguinte comando:
+####Pré-requisitos: 
+1. Nodejs
+2. Java 8 ou superior
 
-1 - npm install -g allure-commandline
-
-Para abrir o report do allure, executar o seguinte comando:
-
-1 - cd caminho\Desafio-inmetrics-mobile-java\target, 2 - allure serve allure-reports
-
-# Pasta TARGET
+#####Caso não tenha o allure instalado, executar o seguinte comando:
+```
+npm install -g allure-commandline
+```
+####Para abrir o report do allure, executar o seguinte comando:
+```
+cd caminho\Desafio-inmetrics-mobile-java\target 
+allure serve allure-reports
+```
+### Pasta TARGET
 É gerado na pasta target:
-1 - Report do allure
-2 - Screenshots
-3 - Video do teste executado
+1. Report do allure
+2. Screenshots
+3. Video do teste executado
+
+> Status do Projeto: Concluido :heavy_check_mark:
