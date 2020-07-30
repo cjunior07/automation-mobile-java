@@ -8,15 +8,15 @@ Projeto de automação de teste mobile, utilizando Java como linguagem principal
 
 ### INFORMAÇÕES PARA EXECUTAR O REPORT DO ALLURE:
 
-####Pré-requisitos: 
+#### Pré-requisitos: 
 1. Nodejs
 2. Java 8 ou superior
 
-#####Caso não tenha o allure instalado, executar o seguinte comando:
+##### Caso não tenha o allure instalado, executar o seguinte comando:
 ```
 npm install -g allure-commandline
 ```
-####Para abrir o report do allure, executar o seguinte comando:
+#### Para abrir o report do allure, executar o seguinte comando:
 ```
 cd caminho\Desafio-inmetrics-mobile-java\target 
 allure serve allure-reports
